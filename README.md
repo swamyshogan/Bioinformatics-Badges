@@ -2,7 +2,9 @@
 
 As far as I know, there wasn't a dedicated set of badges for bioinformatics skills and tools—so I decided to create one. A little quirky, a lot helpful, and hopefully the first of many contributions to make bioinformatics on GitHub even more visually engaging.
 
-Shoutout to ChatGPT for being the brainstorming partner that helped bring this idea to life. Check out the badges, use them, and let’s keep filling those gaps together!
+Shoutout to ChatGPT for being the brainstorming partner that helped bring this idea to life. Check out the badges, use them, and let’s keep filling those gaps together! 
+
+You can find the link for the below badges [here](badges.md)
 
 ### Bioinformatics Tools & Software:
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-%230A0A2A?style=for-the-badge)
