@@ -1,18 +1,20 @@
 # Bioinformatics Software Tools
 
-This document provides an exhaustive list of bioinformatics software tools categorized by their functionality. Each tool is accompanied by a short description and a badge for easier identification. Use this as a reference to explore the tools that are currently being used in bioinformatics research.
-
----
+This document provides a list of bioinformatics software tools categorized by their functionality. Each tool is accompanied by a short description and a badge for easier identification. Use this as a reference to explore the tools!
 
 ## Sequence Alignment and Mapping
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| BLAST | Basic Local Alignment Search Tool for sequence alignment | ![BLAST](https://img.shields.io/badge/BLAST-%230A0A2A?style=for-the-badge) | `![BLAST](https://img.shields.io/badge/BLAST-%230A0A2A?style=for-the-badge)` |
-| Bowtie | Fast and memory-efficient aligner for short reads | ![Bowtie](https://img.shields.io/badge/Bowtie-%2300A9E0?style=for-the-badge) | `![Bowtie](https://img.shields.io/badge/Bowtie-%2300A9E0?style=for-the-badge)` |
-| BWA | Burrows-Wheeler Aligner for short-read mapping | ![BWA](https://img.shields.io/badge/BWA-%230F72A3?style=for-the-badge) | `![BWA](https://img.shields.io/badge/BWA-%230F72A3?style=for-the-badge)` |
-| STAR | Spliced Transcripts Alignment to a Reference for RNA-seq | ![STAR](https://img.shields.io/badge/STAR-%23000D62?style=for-the-badge) | `![STAR](https://img.shields.io/badge/STAR-%23000D62?style=for-the-badge)` |
-| HISAT2 | Hierarchical Indexing for Spliced Alignment of Transcripts | ![HISAT2](https://img.shields.io/badge/HISAT2-%23009C74?style=for-the-badge) | `![HISAT2](https://img.shields.io/badge/HISAT2-%23009C74?style=for-the-badge)` |
+| BLAST | Basic Local Alignment Search Tool | ![BLAST](https://img.shields.io/badge/BLAST-%23009C77?style=for-the-badge) | `![BLAST](https://img.shields.io/badge/BLAST-%23009C77?style=for-the-badge)` |
+| Bowtie | Fast and memory-efficient aligner for short reads | ![Bowtie](https://img.shields.io/badge/Bowtie-%23FF6347?style=for-the-badge) | `![Bowtie](https://img.shields.io/badge/Bowtie-%23FF6347?style=for-the-badge)` |
+| BWA | Burrows-Wheeler Aligner | ![BWA](https://img.shields.io/badge/BWA-%23F5A623?style=for-the-badge) | `![BWA](https://img.shields.io/badge/BWA-%23F5A623?style=for-the-badge)` |
+| STAR | Spliced Transcripts Alignment to a Reference | ![STAR](https://img.shields.io/badge/STAR-%234D90A1?style=for-the-badge) | `![STAR](https://img.shields.io/badge/STAR-%234D90A1?style=for-the-badge)` |
+| HISAT2 | Hierarchical Indexing for Spliced Alignment of Transcripts | ![HISAT2](https://img.shields.io/badge/HISAT2-%236B8E23?style=for-the-badge) | `![HISAT2](https://img.shields.io/badge/HISAT2-%236B8E23?style=for-the-badge)` |
+| Minimap2 | Fast aligner for long reads | ![Minimap2](https://img.shields.io/badge/Minimap2-%23FF4500?style=for-the-badge) | `![Minimap2](https://img.shields.io/badge/Minimap2-%23FF4500?style=for-the-badge)` |
+| Samtools | Tools for manipulating alignments in the SAM format | ![Samtools](https://img.shields.io/badge/Samtools-%23A9D2B2?style=for-the-badge) | `![Samtools](https://img.shields.io/badge/Samtools-%23A9D2B2?style=for-the-badge)` |
+| TopHat | RNA-seq aligner that uses Bowtie | ![TopHat](https://img.shields.io/badge/TopHat-%23FF1493?style=for-the-badge) | `![TopHat](https://img.shields.io/badge/TopHat-%23FF1493?style=for-the-badge)` |
+| Novoalign | Aligns short sequencing reads to a reference genome | ![Novoalign](https://img.shields.io/badge/Novoalign-%239900CC?style=for-the-badge) | `![Novoalign](https://img.shields.io/badge/Novoalign-%239900CC?style=for-the-badge)` |
 
 ---
 
@@ -20,11 +22,12 @@ This document provides an exhaustive list of bioinformatics software tools categ
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| GATK | Genome Analysis Toolkit for variant discovery | ![GATK](https://img.shields.io/badge/GATK-%2329A9D1?style=for-the-badge) | `![GATK](https://img.shields.io/badge/GATK-%2329A9D1?style=for-the-badge)` |
-| FreeBayes | Bayesian genetic variant detector | ![FreeBayes](https://img.shields.io/badge/FreeBayes-%2300A0A2?style=for-the-badge) | `![FreeBayes](https://img.shields.io/badge/FreeBayes-%2300A0A2?style=for-the-badge)` |
-| Samtools | Toolkit for manipulating alignments in the SAM format | ![Samtools](https://img.shields.io/badge/Samtools-%23000000?style=for-the-badge) | `![Samtools](https://img.shields.io/badge/Samtools-%23000000?style=for-the-badge)` |
-| Platypus | Genome variant caller for NGS data | ![Platypus](https://img.shields.io/badge/Platypus-%23297F73?style=for-the-badge) | `![Platypus](https://img.shields.io/badge/Platypus-%23297F73?style=for-the-badge)` |
-| Strelka | Somatic variant caller for cancer data | ![Strelka](https://img.shields.io/badge/Strelka-%23D60020?style=for-the-badge) | `![Strelka](https://img.shields.io/badge/Strelka-%23D60020?style=for-the-badge)` |
+| GATK | Genome Analysis Toolkit | ![GATK](https://img.shields.io/badge/GATK-%2333B5E5?style=for-the-badge) | `![GATK](https://img.shields.io/badge/GATK-%2333B5E5?style=for-the-badge)` |
+| Samtools mpileup | Calls variants from aligned reads | ![Samtools mpileup](https://img.shields.io/badge/Samtools_mpileup-%23408080?style=for-the-badge) | `![Samtools mpileup](https://img.shields.io/badge/Samtools_mpileup-%23408080?style=for-the-badge)` |
+| FreeBayes | Bayesian genetic variant detector | ![FreeBayes](https://img.shields.io/badge/FreeBayes-%23FF6347?style=for-the-badge) | `![FreeBayes](https://img.shields.io/badge/FreeBayes-%23FF6347?style=for-the-badge)` |
+| Platypus | Genome variant caller for NGS data | ![Platypus](https://img.shields.io/badge/Platypus-%23FF8C00?style=for-the-badge) | `![Platypus](https://img.shields.io/badge/Platypus-%23FF8C00?style=for-the-badge)` |
+| Strelka | Somatic variant caller | ![Strelka](https://img.shields.io/badge/Strelka-%23990099?style=for-the-badge) | `![Strelka](https://img.shields.io/badge/Strelka-%23990099?style=for-the-badge)` |
+| MuTect2 | For calling somatic mutations from aligned reads | ![MuTect2](https://img.shields.io/badge/MuTect2-%23A0522D?style=for-the-badge) | `![MuTect2](https://img.shields.io/badge/MuTect2-%23A0522D?style=for-the-badge)` |
 
 ---
 
@@ -32,11 +35,12 @@ This document provides an exhaustive list of bioinformatics software tools categ
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| IGV | Integrative Genomics Viewer for high-throughput data visualization | ![IGV](https://img.shields.io/badge/IGV-%23401F3C?style=for-the-badge) | `![IGV](https://img.shields.io/badge/IGV-%23401F3C?style=for-the-badge)` |
-| UCSC Genome Browser | Web-based genome browser for visualization | ![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%234F75B5?style=for-the-badge) | `![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%234F75B5?style=for-the-badge)` |
-| Circos | Visualization tool for genomic data in circular layout | ![Circos](https://img.shields.io/badge/Circos-%23F5A623?style=for-the-badge) | `![Circos](https://img.shields.io/badge/Circos-%23F5A623?style=for-the-badge)` |
-| JBrowse | Web-based genome browser for next-gen sequencing data | ![JBrowse](https://img.shields.io/badge/JBrowse-%23F3A0A0?style=for-the-badge) | `![JBrowse](https://img.shields.io/badge/JBrowse-%23F3A0A0?style=for-the-badge)` |
-| Artemis | Genome browser for sequence annotation | ![Artemis](https://img.shields.io/badge/Artemis-%232E6B8C?style=for-the-badge) | `![Artemis](https://img.shields.io/badge/Artemis-%232E6B8C?style=for-the-badge)` |
+| IGV | Integrative Genomics Viewer | ![IGV](https://img.shields.io/badge/IGV-%2300BFFF?style=for-the-badge) | `![IGV](https://img.shields.io/badge/IGV-%2300BFFF?style=for-the-badge)` |
+| UCSC Genome Browser | Web-based genome browser | ![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%23FF1493?style=for-the-badge) | `![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%23FF1493?style=for-the-badge)` |
+| Circos | Visualization tool for genomic data in circular layout | ![Circos](https://img.shields.io/badge/Circos-%23FFD700?style=for-the-badge) | `![Circos](https://img.shields.io/badge/Circos-%23FFD700?style=for-the-badge)` |
+| GenomeDiagram | Python package for genomic plots | ![GenomeDiagram](https://img.shields.io/badge/GenomeDiagram-%232E8B57?style=for-the-badge) | `![GenomeDiagram](https://img.shields.io/badge/GenomeDiagram-%232E8B57?style=for-the-badge)` |
+| JBrowse | Web-based genome browser | ![JBrowse](https://img.shields.io/badge/JBrowse-%23A52A2A?style=for-the-badge) | `![JBrowse](https://img.shields.io/badge/JBrowse-%23A52A2A?style=for-the-badge)` |
+| Artemis | Genome browser for sequence annotation | ![Artemis](https://img.shields.io/badge/Artemis-%23DAA520?style=for-the-badge) | `![Artemis](https://img.shields.io/badge/Artemis-%23DAA520?style=for-the-badge)` |
 
 ---
 
@@ -44,45 +48,140 @@ This document provides an exhaustive list of bioinformatics software tools categ
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| Cufflinks | Assembler and quantifier for transcriptomes | ![Cufflinks](https://img.shields.io/badge/Cufflinks-%230F8B8D?style=for-the-badge) | `![Cufflinks](https://img.shields.io/badge/Cufflinks-%230F8B8D?style=for-the-badge)` |
-| StringTie | Transcript assembly and quantification | ![StringTie](https://img.shields.io/badge/StringTie-%2312878F?style=for-the-badge) | `![StringTie](https://img.shields.io/badge/StringTie-%2312878F?style=for-the-badge)` |
-| DESeq2 | Differential expression analysis for RNA-Seq | ![DESeq2](https://img.shields.io/badge/DESeq2-%23D04C6A?style=for-the-badge) | `![DESeq2](https://img.shields.io/badge/DESeq2-%23D04C6A?style=for-the-badge)` |
-| edgeR | Differential expression analysis for RNA-seq | ![edgeR](https://img.shields.io/badge/edgeR-%232F6D7F?style=for-the-badge) | `![edgeR](https://img.shields.io/badge/edgeR-%232F6D7F?style=for-the-badge)` |
-| Limma | Linear models for RNA-seq data | ![Limma](https://img.shields.io/badge/Limma-%2399C8F2?style=for-the-badge) | `![Limma](https://img.shields.io/badge/Limma-%2399C8F2?style=for-the-badge)` |
+| Cufflinks | Transcriptome assembler and quantifier | ![Cufflinks](https://img.shields.io/badge/Cufflinks-%23DC143C?style=for-the-badge) | `![Cufflinks](https://img.shields.io/badge/Cufflinks-%23DC143C?style=for-the-badge)` |
+| StringTie | Transcript assembly and quantification | ![StringTie](https://img.shields.io/badge/StringTie-%23FF4500?style=for-the-badge) | `![StringTie](https://img.shields.io/badge/StringTie-%23FF4500?style=for-the-badge)` |
+| DESeq2 | Differential gene expression analysis in RNA-Seq | ![DESeq2](https://img.shields.io/badge/DESeq2-%23FFD700?style=for-the-badge) | `![DESeq2](https://img.shields.io/badge/DESeq2-%23FFD700?style=for-the-badge)` |
+| EdgeR | Differential expression analysis of RNA-Seq count data | ![EdgeR](https://img.shields.io/badge/EdgeR-%234DB8FF?style=for-the-badge) | `![EdgeR](https://img.shields.io/badge/EdgeR-%234DB8FF?style=for-the-badge)` |
+| HTSeq | For high-throughput sequencing data analysis | ![HTSeq](https://img.shields.io/badge/HTSeq-%23A9D2B2?style=for-the-badge) | `![HTSeq](https://img.shields.io/badge/HTSeq-%23A9D2B2?style=for-the-badge)` |
+| Salmon | Fast quantification of transcript abundance | ![Salmon](https://img.shields.io/badge/Salmon-%234DC6FF?style=for-the-badge) | `![Salmon](https://img.shields.io/badge/Salmon-%234DC6FF?style=for-the-badge)` |
+| Kallisto | Fast RNA-seq quantification tool using pseudoalignment | ![Kallisto](https://img.shields.io/badge/Kallisto-%234BBFDA?style=for-the-badge) | `![Kallisto](https://img.shields.io/badge/Kallisto-%234BBFDA?style=for-the-badge)` |
+| RSEM | RNA-Seq by Expectation-Maximization | ![RSEM](https://img.shields.io/badge/RSEM-%23F08080?style=for-the-badge) | `![RSEM](https://img.shields.io/badge/RSEM-%23F08080?style=for-the-badge)` |
 
 ---
 
-## Genomics Data Analysis
+## Genome Assembly
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| Galaxy | Web-based platform for data analysis | ![Galaxy](https://img.shields.io/badge/Galaxy-%23246B87?style=for-the-badge) | `![Galaxy](https://img.shields.io/badge/Galaxy-%23246B87?style=for-the-badge)` |
-| Bioconductor | R-based package for bioinformatics data analysis | ![Bioconductor](https://img.shields.io/badge/Bioconductor-%230A0A2A?style=for-the-badge) | `![Bioconductor](https://img.shields.io/badge/Bioconductor-%230A0A2A?style=for-the-badge)` |
-| DESeq2 | Differential expression analysis for RNA-Seq data | ![DESeq2](https://img.shields.io/badge/DESeq2-%23D04C6A?style=for-the-badge) | `![DESeq2](https://img.shields.io/badge/DESeq2-%23D04C6A?style=for-the-badge)` |
-| GSEA | Gene set enrichment analysis for expression data | ![GSEA](https://img.shields.io/badge/GSEA-%23008C77?style=for-the-badge) | `![GSEA](https://img.shields.io/badge/GSEA-%23008C77?style=for-the-badge)` |
-| DAVID | Functional annotation and gene list analysis | ![DAVID](https://img.shields.io/badge/DAVID-%23158C8A?style=for-the-badge) | `![DAVID](https://img.shields.io/badge/DAVID-%23158C8A?style=for-the-badge)` |
+| SPAdes | De novo genome assembler for Illumina data | ![SPAdes](https://img.shields.io/badge/SPAdes-%23FF0000?style=for-the-badge) | `![SPAdes](https://img.shields.io/badge/SPAdes-%23FF0000?style=for-the-badge)` |
+| Velvet | De novo short read assembler | ![Velvet](https://img.shields.io/badge/Velvet-%23F08080?style=for-the-badge) | `![Velvet](https://img.shields.io/badge/Velvet-%23F08080?style=for-the-badge)` |
+| Canu | For assembling long-read data, e.g., PacBio or Nanopore | ![Canu](https://img.shields.io/badge/Canu-%23A52A2A?style=for-the-badge) | `![Canu](https://img.shields.io/badge/Canu-%23A52A2A?style=for-the-badge)` |
+| Flye | Long read assembler | ![Flye](https://img.shields.io/badge/Flye-%23FF4500?style=for-the-badge) | `![Flye](https://img.shields.io/badge/Flye-%23FF4500?style=for-the-badge)` |
+| ABySS | De novo assembler for large genomes | ![ABySS](https://img.shields.io/badge/ABySS-%23DC143C?style=for-the-badge) | `![ABySS](https://img.shields.io/badge/ABySS-%23DC143C?style=for-the-badge)` |
 
----
+--- 
 
-## Data Mining and Machine Learning
-
-| **Badges** | **Description** | **Preview** | **Link** |
-|-------------------------|---------------------------------------------------------------------------|---|---|
-| scikit-learn | Machine learning library in Python | ![scikit-learn](https://img.shields.io/badge/scikit-learn-%23F9A825?style=for-the-badge) | `![scikit-learn](https://img.shields.io/badge/scikit-learn-%23F9A825?style=for-the-badge)` |
-| TensorFlow | Open-source library for machine learning and AI | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge) | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge)` |
-| Keras | High-level neural networks API | ![Keras](https://img.shields.io/badge/Keras-%23D32F2F?style=for-the-badge) | `![Keras](https://img.shields.io/badge/Keras-%23D32F2F?style=for-the-badge)` |
-| XGBoost | Optimized gradient boosting library | ![XGBoost](https://img.shields.io/badge/XGBoost-%23F57C00?style=for-the-badge) | `![XGBoost](https://img.shields.io/badge/XGBoost-%23F57C00?style=for-the-badge)` |
-| Weka | Data mining software for classification, regression, clustering, etc. | ![Weka](https://img.shields.io/badge/Weka-%23009C74?style=for-the-badge) | `![Weka](https://img.shields.io/badge/Weka-%23009C74?style=for-the-badge)` |
-
----
-
-## Proteomics
+## Functional Genomics and Annotation
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| MaxQuant | Software for analyzing mass spectrometry data | ![MaxQuant](https://img.shields.io/badge/MaxQuant-%23A9D2B2?style=for-the-badge) | `![MaxQuant](https://img.shields.io/badge/MaxQuant-%23A9D2B2?style=for-the-badge)` |
-| Proteome Discoverer | Thermo Fisher's proteomics analysis software | ![Proteome Discoverer](https://img.shields.io/badge/Proteome_Discoverer-%234D90A1?style=for-the-badge) | `![Proteome Discoverer](https://img.shields.io/badge/Proteome_Discoverer-%234D90A1?style=for-the-badge)` |
-| Skyline | Quantitative proteomics analysis software | ![Skyline](https://img.shields.io/badge/Skyline-%232A8D95?style=for-the-badge) | `![Skyline](https://img.shields.io/badge/Skyline-%232A8D95?style=for-the-badge)` |
-| OpenMS | Open-source software for mass spectrometry data analysis | ![OpenMS](https://img.shields.io/badge/OpenMS-%23FF5722?style=for-the-badge) | `![OpenMS](https://img.shields.io/badge/OpenMS-%23FF5722?style=for-the-badge)` |
+| Ensembl | Genome browser and annotation platform | ![Ensembl](https://img.shields.io/badge/Ensembl-%233399FF?style=for-the-badge) | `![Ensembl](https://img.shields.io/badge/Ensembl-%233399FF?style=for-the-badge)` |
+| GeneMark | Gene prediction software | ![GeneMark](https://img.shields.io/badge/GeneMark-%2360B0A6?style=for-the-badge) | `![GeneMark](https://img.shields.io/badge/GeneMark-%2360B0A6?style=for-the-badge)` |
+| AUGUSTUS | Gene prediction tool for eukaryotic genomes | ![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-%23A1D6E8?style=for-the-badge) | `![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-%23A1D6E8?style=for-the-badge)` |
+| InterProScan | Protein sequence analysis tool for domain identification | ![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge) | `![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge)` |
+| BLAST2GO | Bioinformatics tool for gene ontology annotation | ![BLAST2GO](https://img.shields.io/badge/BLAST2GO-%23FF6347?style=for-the-badge) | `![BLAST2GO](https://img.shields.io/badge/BLAST2GO-%23FF6347?style=for-the-badge)` |
 
 ---
+
+## Phylogenetics and Evolutionary Analysis
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| RAxML | Maximum likelihood-based phylogenetic analysis tool | ![RAxML](https://img.shields.io/badge/RAxML-%23FF4500?style=for-the-badge) | `![RAxML](https://img.shields.io/badge/RAxML-%23FF4500?style=for-the-badge)` |
+| MrBayes | Bayesian inference of phylogenetic trees | ![MrBayes](https://img.shields.io/badge/MrBayes-%239900FF?style=for-the-badge) | `![MrBayes](https://img.shields.io/badge/MrBayes-%239900FF?style=for-the-badge)` |
+| Clustal Omega | Multiple sequence alignment tool | ![Clustal Omega](https://img.shields.io/badge/Clustal_Omega-%23A9A9A9?style=for-the-badge) | `![Clustal Omega](https://img.shields.io/badge/Clustal_Omega-%23A9A9A9?style=for-the-badge)` |
+| MUSCLE | Multiple sequence alignment tool | ![MUSCLE](https://img.shields.io/badge/MUSCLE-%23F08080?style=for-the-badge) | `![MUSCLE](https://img.shields.io/badge/MUSCLE-%23F08080?style=for-the-badge)` |
+| FastTree | Phylogenetic tree inference from alignments | ![FastTree](https://img.shields.io/badge/FastTree-%23A52A2A?style=for-the-badge) | `![FastTree](https://img.shields.io/badge/FastTree-%23A52A2A?style=for-the-badge)` |
+| BEAST | Bayesian analysis of molecular sequences | ![BEAST](https://img.shields.io/badge/BEAST-%23FFD700?style=for-the-badge) | `![BEAST](https://img.shields.io/badge/BEAST-%23FFD700?style=for-the-badge)` |
+| IQ-TREE | Efficient and scalable phylogeny estimation | ![IQ-TREE](https://img.shields.io/badge/IQ--TREE-%23D2691E?style=for-the-badge) | `![IQ-TREE](https://img.shields.io/badge/IQ--TREE-%23D2691E?style=for-the-badge)` |
+
+--- 
+
+## Proteomics and Protein Analysis
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| MaxQuant | Quantitative proteomics analysis | ![MaxQuant](https://img.shields.io/badge/MaxQuant-%23A52A2A?style=for-the-badge) | `![MaxQuant](https://img.shields.io/badge/MaxQuant-%23A52A2A?style=for-the-badge)` |
+| Proteome Discoverer | Protein identification and quantification | ![Proteome Discoverer](https://img.shields.io/badge/Proteome_Discoverer-%23B22222?style=for-the-badge) | `![Proteome Discoverer](https://img.shields.io/badge/Proteome_Discoverer-%23B22222?style=for-the-badge)` |
+| MASCOT | Protein identification using mass spectrometry data | ![MASCOT](https://img.shields.io/badge/MASCOT-%23FFD700?style=for-the-badge) | `![MASCOT](https://img.shields.io/badge/MASCOT-%23FFD700?style=for-the-badge)` |
+| ProteinPilot | Protein identification and quantification | ![ProteinPilot](https://img.shields.io/badge/ProteinPilot-%23FF6347?style=for-the-badge) | `![ProteinPilot](https://img.shields.io/badge/ProteinPilot-%23FF6347?style=for-the-badge)` |
+| BLASTP | Protein sequence alignment tool | ![BLASTP](https://img.shields.io/badge/BLASTP-%23FFD700?style=for-the-badge) | `![BLASTP](https://img.shields.io/badge/BLASTP-%23FFD700?style=for-the-badge)` |
+| Phobius | Predicts transmembrane regions in proteins | ![Phobius](https://img.shields.io/badge/Phobius-%236A5ACD?style=for-the-badge) | `![Phobius](https://img.shields.io/badge/Phobius-%236A5ACD?style=for-the-badge)` |
+| InterProScan | Protein domain identification tool | ![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge) | `![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge)` |
+
+--- 
+
+## Metagenomics
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| QIIME2 | Quantitative Insights Into Microbial Ecology for metagenomics | ![QIIME2](https://img.shields.io/badge/QIIME2-%23FF6347?style=for-the-badge) | `![QIIME2](https://img.shields.io/badge/QIIME2-%23FF6347?style=for-the-badge)` |
+| MetaPhlAn | Metagenomic Phylogenetic Analysis tool | ![MetaPhlAn](https://img.shields.io/badge/MetaPhlAn-%23FFD700?style=for-the-badge) | `![MetaPhlAn](https://img.shields.io/badge/MetaPhlAn-%23FFD700?style=for-the-badge)` |
+| Kraken | Metagenomic classification tool based on k-mer matching | ![Kraken](https://img.shields.io/badge/Kraken-%2300BFFF?style=for-the-badge) | `![Kraken](https://img.shields.io/badge/Kraken-%2300BFFF?style=for-the-badge)` |
+| Mothur | Metagenomic sequence analysis and visualization | ![Mothur](https://img.shields.io/badge/Mothur-%23FF4500?style=for-the-badge) | `![Mothur](https://img.shields.io/badge/Mothur-%23FF4500?style=for-the-badge)` |
+| MEGAN | Metagenome analysis tool for the interpretation of sequence data | ![MEGAN](https://img.shields.io/badge/MEGAN-%23FF1493?style=for-the-badge) | `![MEGAN](https://img.shields.io/badge/MEGAN-%23FF1493?style=for-the-badge)` |
+| CLOVR | Genomic tool for functional annotation of metagenomic data | ![CLOVR](https://img.shields.io/badge/CLOVR-%2300FF7F?style=for-the-badge) | `![CLOVR](https://img.shields.io/badge/CLOVR-%2300FF7F?style=for-the-badge)` |
+
+--- 
+
+## Molecular Docking and Drug Discovery
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| AutoDock | Molecular docking software for small molecules | ![AutoDock](https://img.shields.io/badge/AutoDock-%23FF6347?style=for-the-badge) | `![AutoDock](https://img.shields.io/badge/AutoDock-%23FF6347?style=for-the-badge)` |
+| Dock | Molecular docking software for protein-ligand interaction studies | ![Dock](https://img.shields.io/badge/Dock-%23FFD700?style=for-the-badge) | `![Dock](https://img.shields.io/badge/Dock-%23FFD700?style=for-the-badge)` |
+| Rosetta | Protein structure prediction and docking | ![Rosetta](https://img.shields.io/badge/Rosetta-%234C9A2D?style=for-the-badge) | `![Rosetta](https://img.shields.io/badge/Rosetta-%234C9A2D?style=for-the-badge)` |
+| MOE | Molecular Operating Environment for drug discovery | ![MOE](https://img.shields.io/badge/MOE-%23A52A2A?style=for-the-badge) | `![MOE](https://img.shields.io/badge/MOE-%23A52A2A?style=for-the-badge)` |
+| GOLD | Genetic optimization for ligand docking | ![GOLD](https://img.shields.io/badge/GOLD-%23F08080?style=for-the-badge) | `![GOLD](https://img.shields.io/badge/GOLD-%23F08080?style=for-the-badge)` |
+
+---
+
+## Systems Biology
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| Cytoscape | Visualization and analysis of networks | ![Cytoscape](https://img.shields.io/badge/Cytoscape-%233399FF?style=for-the-badge) | `![Cytoscape](https://img.shields.io/badge/Cytoscape-%233399FF?style=for-the-badge)` |
+| CellDesigner | Graphical modeling tool for biochemical systems | ![CellDesigner](https://img.shields.io/badge/CellDesigner-%23DC143C?style=for-the-badge) | `![CellDesigner](https://img.shields.io/badge/CellDesigner-%23DC143C?style=for-the-badge)` |
+| COPASI | Systems biology software for simulating and analyzing biochemical networks | ![COPASI](https://img.shields.io/badge/COPASI-%23A9A9A9?style=for-the-badge) | `![COPASI](https://img.shields.io/badge/COPASI-%23A9A9A9?style=for-the-badge)` |
+| PathVisio | Tool for pathway analysis and visualizations | ![PathVisio](https://img.shields.io/badge/PathVisio-%23B22222?style=for-the-badge) | `![PathVisio](https://img.shields.io/badge/PathVisio-%23B22222?style=for-the-badge)` |
+
+---
+
+## Data Analysis and Statistics
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| R | Comprehensive statistical analysis and visualization tool | ![R](https://img.shields.io/badge/R-%23A8B9CC?style=for-the-badge) | `![R](https://img.shields.io/badge/R-%23A8B9CC?style=for-the-badge)` |
+| Bioconductor | R-based package for bioinformatics data analysis | ![Bioconductor](https://img.shields.io/badge/Bioconductor-%234DC6FF?style=for-the-badge) | `![Bioconductor](https://img.shields.io/badge/Bioconductor-%234DC6FF?style=for-the-badge)` |
+| Python | Programming language with bioinformatics libraries like Biopython | ![Python](https://img.shields.io/badge/Python-%23FFD700?style=for-the-badge) | `![Python](https://img.shields.io/badge/Python-%23FFD700?style=for-the-badge)` |
+| MATLAB | Programming environment used for numerical analysis in bioinformatics | ![MATLAB](https://img.shields.io/badge/MATLAB-%23A52A2A?style=for-the-badge) | `![MATLAB](https://img.shields.io/badge/MATLAB-%23A52A2A?style=for-the-badge)` |
+| Galaxy | Open-source platform for data analysis, visualizations, and workflow creation | ![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge) | `![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge)` |
+| SAS | Statistical software suite used in bioinformatics research | ![SAS](https://img.shields.io/badge/SAS-%23FF1493?style=for-the-badge) | `![SAS](https://img.shields.io/badge/SAS-%23FF1493?style=for-the-badge)` |
+| JMP | Statistical discovery tool used in genomics and bioinformatics | ![JMP](https://img.shields.io/badge/JMP-%23DC143C?style=for-the-badge) | `![JMP](https://img.shields.io/badge/JMP-%23DC143C?style=for-the-badge)` |
+
+---
+
+## Data Integration and Cloud-Based Tools
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| CloudBioLinux | Cloud-based bioinformatics software | ![CloudBioLinux](https://img.shields.io/badge/CloudBioLinux-%23A52A2A?style=for-the-badge) | `![CloudBioLinux](https://img.shields.io/badge/CloudBioLinux-%23A52A2A?style=for-the-badge)` |
+| AWS Bioinformatics | Amazon Web Services bioinformatics tools | ![AWS Bioinformatics](https://img.shields.io/badge/AWS_Bioinformatics-%23FFD700?style=for-the-badge) | `![AWS Bioinformatics](https://img.shields.io/badge/AWS_Bioinformatics-%23FFD700?style=for-the-badge)` |
+| Google Genomics | Google Cloud Platform for large-scale genomic data analysis | ![Google Genomics](https://img.shields.io/badge/Google_Genomics-%2300BFFF?style=for-the-badge) | `![Google Genomics](https://img.shields.io/badge/Google_Genomics-%2300BFFF?style=for-the-badge)` |
+| BaseSpace | Illumina's cloud-based platform for sequencing data analysis | ![BaseSpace](https://img.shields.io/badge/BaseSpace-%23FFD700?style=for-the-badge) | `![BaseSpace](https://img.shields.io/badge/BaseSpace-%23FFD700?style=for-the-badge)` |
+
+---
+
+## Other Miscellaneous Tools
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| Biopython | Python library for bioinformatics | ![Biopython](https://img.shields.io/badge/Biopython-%23FFD700?style=for-the-badge) | `![Biopython](https://img.shields.io/badge/Biopython-%23FFD700?style=for-the-badge)` |
+| BEDTools | Toolkit for genome arithmetic operations | ![BEDTools](https://img.shields.io/badge/BEDTools-%23DC143C?style=for-the-badge) | `![BEDTools](https://img.shields.io/badge/BEDTools-%23DC143C?style=for-the-badge)` |
+| VCFtools | Tools for working with Variant Call Format files | ![VCFtools](https://img.shields.io/badge/VCFtools-%23FF6347?style=for-the-badge) | `![VCFtools](https://img.shields.io/badge/VCFtools-%23FF6347?style=for-the-badge)` |
+| Galaxy | Web-based platform for bioinformatics analysis | ![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge) | `![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge)` |
+| Babelomics | Bioinformatics tool for functional analysis | ![Babelomics](https://img.shields.io/badge/Babelomics-%23FFD700?style=for-the-badge) | `![Babelomics](https://img.shields.io/badge/Babelomics-%23FFD700?style=for-the-badge)` |
+| OrthoMCL | Orthology-based clustering tool | ![OrthoMCL](https://img.shields.io/badge/OrthoMCL-%23A52A2A?style=for-the-badge) | `![OrthoMCL](https://img.shields.io/badge/OrthoMCL-%23A52A2A?style=for-the-badge)` |
+
+---
+
