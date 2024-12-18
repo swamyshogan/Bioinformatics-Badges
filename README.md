@@ -4,7 +4,9 @@ As far as I know, there wasn't a dedicated set of badges for bioinformatics skil
 
 Shoutout to ChatGPT for being the brainstorming partner that helped bring this idea to life. Check out the badges, use them, and let’s keep filling those gaps together! 
 
-You can find the link for the below badges [here](badges.md)
+**You can find the link for the below badges [here](Badges.md)**
+
+
 
 ### Bioinformatics Tools & Software:
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-%230A0A2A?style=for-the-badge)
