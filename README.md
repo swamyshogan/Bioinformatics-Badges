@@ -2,7 +2,7 @@
 
 This might be my first attempt at creating a README page, but it’s definitely not my first time spotting a gap and filling it! I’ve always had an eye for finding those research gaps and finding ways to bridge them. So, when I realized there wasn't a simple, visual way to represent bioinformatics skills and tools on GitHub, I decided to create this collection of badges.
 
-Big shoutout to ChatGPT for helping me streamline the process and make this all come together. Explore the badges, share them, and let's continue to fill in those gaps!
+Explore the badges, share them, and let's continue to fill in those gaps!
 
 **You can find the complete list of badges and the link [here](BADGES.md)**
 
