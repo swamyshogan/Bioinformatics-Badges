@@ -6,8 +6,6 @@ Big shoutout to ChatGPT for helping me streamline the process and make this all 
 
 **You can find the complete list of badges and the link [here](Badges.md)**
 
-Sample 
-
 ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)
