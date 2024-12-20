@@ -4,7 +4,7 @@ This might be my first attempt at creating a README page, but it’s definitely 
 
 Big shoutout to ChatGPT for helping me streamline the process and make this all come together. Explore the badges, share them, and let's continue to fill in those gaps!
 
-**You can find the complete list of badges and the link [here](Badges.md)**
+**You can find the complete list of badges and the link [here](BADGES.md)**
 
 ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
