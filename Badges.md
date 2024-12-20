@@ -2,6 +2,92 @@
 
 This document provides a list of bioinformatics software tools categorized by their functionality. Each tool is accompanied by a short description and a badge for easier identification. Use this as a reference to explore the tools!
 
+## Bioinformatics Specific Languages 
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| R | Comprehensive statistical analysis and visualization tool | ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r) | `![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)` |
+| Python | Programming language with bioinformatics libraries like Biopython | ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) | `![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)` |
+| Perl         | Text-processing powerhouse, widely used for scripting | ![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)     | `![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)` |
+| MATLAB       | Numerical computing and data visualization          | ![MATLAB](https://img.shields.io/badge/MATLAB-%23E95420?style=for-the-badge) | `![MATLAB](https://img.shields.io/badge/MATLAB-%23E95420?style=for-the-badge)` |
+| Java         | Platform-independent, object-oriented               | ![Java](https://img.shields.io/badge/java-%20%23ED8B00?style=for-the-badge&logo=java&logoColor=white)     | `![Java](https://img.shields.io/badge/java-%20%23ED8B00?style=for-the-badge&logo=java&logoColor=white)`     |
+| C++          | High-performance, suitable for intensive tasks      | ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)       | `https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white`       |
+| C            | Low-level programming for speed and efficiency      | ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)           | `![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)`           |
+| Julia        | High-performance, modern syntax for numerical computing | ![Julia](https://img.shields.io/badge/julia-%239558B2?style=for-the-badge&logo=Julia&logoColor=white)   | `![Julia](https://img.shields.io/badge/julia-%239558B2?style=for-the-badge&logo=Julia&logoColor=white)`   |
+| Ruby         | Elegant syntax, scripting-friendly                  | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby&logoColor=white)     | `![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby&logoColor=white)`     |
+| Shell Scripting (Bash) | Command-line based, essential for automation       | ![Bash](https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash)     | `https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash`     |
+| SQL          | Structured query language for database management   | ![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)       | `![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)`       |
+
+---
+
+## Genomic Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| GenBank | Nucleotide sequence database maintained by NCBI | ![GenBank](https://img.shields.io/badge/NCBI_GenBank-%23205493?style=for-the-badge) | `![GenBank](https://img.shields.io/badge/NCBI_GenBank-%23205493?style=for-the-badge)` |
+| Ensembl | Genome database for vertebrates and other eukaryotes | ![Ensembl](https://img.shields.io/badge/EMSEMBL-blue?style=for-the-badge) | `![Ensembl](https://img.shields.io/badge/EMSEMBL-blue?style=for-the-badge)` |
+| UCSC Genome Browser | Web-based tool for visualizing genomic data | ![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%2315386d?style=for-the-badge) | `![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%2315386d?style=for-the-badge)` |
+| RefSeq | Curated reference sequences of genomes, genes, and transcripts | ![RefSeq](https://img.shields.io/badge/RefSeq-%230071bc?style=for-the-badge) | `![RefSeq](https://img.shields.io/badge/RefSeq-%230071bc?style=for-the-badge)` |
+| DDBJ | DNA Data Bank of Japan | ![DDBJ](https://img.shields.io/badge/DDBJ-orange?style=for-the-badge) | `![DDBJ](https://img.shields.io/badge/DDBJ-orange?style=for-the-badge)` |
+
+---
+
+## Protein Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| UniProt | Comprehensive protein sequence and functional information | ![UniProt](https://img.shields.io/badge/UniProt-%23FFD700?style=for-the-badge) | `![UniProt](https://img.shields.io/badge/UniProt-%23FFD700?style=for-the-badge)` |
+| PDB | Protein Data Bank for 3D structural data of biomolecules | ![PDB](https://img.shields.io/badge/PDB-%23FF6347?style=for-the-badge) | `![PDB](https://img.shields.io/badge/PDB-%23FF6347?style=for-the-badge)` |
+| InterPro | Database of protein families, domains, and functional sites | ![InterPro](https://img.shields.io/badge/InterPro-%234C9A2D?style=for-the-badge) | `![InterPro](https://img.shields.io/badge/InterPro-%234C9A2D?style=for-the-badge)` |
+| PFAM | Protein family database with HMM-based classifications | ![PFAM](https://img.shields.io/badge/PFAM-%23FF1493?style=for-the-badge) | `![PFAM](https://img.shields.io/badge/PFAM-%23FF1493?style=for-the-badge)` |
+| PROSITE | Protein domains and motifs | ![PROSITE](https://img.shields.io/badge/PROSITE-%233399FF?style=for-the-badge) | `![PROSITE](https://img.shields.io/badge/PROSITE-%233399FF?style=for-the-badge)` |
+
+---
+
+## Functional Genomics Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| GEO | Gene Expression Omnibus for functional genomics datasets | ![GEO](https://img.shields.io/badge/GEO-%23B22222?style=for-the-badge) | `![GEO](https://img.shields.io/badge/GEO-%23B22222?style=for-the-badge)` |
+| ArrayExpress | Archive of functional genomics data | ![ArrayExpress](https://img.shields.io/badge/ArrayExpress-%234DC6FF?style=for-the-badge) | `![ArrayExpress](https://img.shields.io/badge/ArrayExpress-%234DC6FF?style=for-the-badge)` |
+| KEGG | Kyoto Encyclopedia of Genes and Genomes | ![KEGG](https://img.shields.io/badge/KEGG-%23FFD700?style=for-the-badge) | `![KEGG](https://img.shields.io/badge/KEGG-%23FFD700?style=for-the-badge)` |
+| BioGRID | Biological General Repository for Interaction Datasets | ![BioGRID](https://img.shields.io/badge/BioGRID-%23FF6347?style=for-the-badge) | `![BioGRID](https://img.shields.io/badge/BioGRID-%23FF6347?style=for-the-badge)` |
+
+---
+
+## Pathway Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| Reactome | Pathway database of biological processes | ![Reactome](https://img.shields.io/badge/Reactome-%234C9A2D?style=for-the-badge) | `![Reactome](https://img.shields.io/badge/Reactome-%234C9A2D?style=for-the-badge)` |
+| Pathway Commons | Collection of biological pathway information | ![Pathway Commons](https://img.shields.io/badge/Pathway_Commons-%23FFD700?style=for-the-badge) | `![Pathway Commons](https://img.shields.io/badge/Pathway_Commons-%23FFD700?style=for-the-badge)` |
+| WikiPathways | Community-driven pathway database | ![WikiPathways](https://img.shields.io/badge/WikiPathways-%23FF6347?style=for-the-badge) | `![WikiPathways](https://img.shields.io/badge/WikiPathways-%23FF6347?style=for-the-badge)` |
+
+---
+
+## Variant and Mutation Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| dbSNP | Database of single nucleotide polymorphisms | ![dbSNP](https://img.shields.io/badge/dbSNP-%23A52A2A?style=for-the-badge) | `![dbSNP](https://img.shields.io/badge/dbSNP-%23A52A2A?style=for-the-badge)` |
+| ClinVar | Database of clinically significant variants | ![ClinVar](https://img.shields.io/badge/ClinVar-%234DC6FF?style=for-the-badge) | `![ClinVar](https://img.shields.io/badge/ClinVar-%234DC6FF?style=for-the-badge)` |
+| COSMIC | Catalogue of somatic mutations in cancer | ![COSMIC](https://img.shields.io/badge/COSMIC-%23DC143C?style=for-the-badge) | `![COSMIC](https://img.shields.io/badge/COSMIC-%23DC143C?style=for-the-badge)` |
+| 1000 Genomes | Database of human genetic variation | ![1000 Genomes](https://img.shields.io/badge/1000_Genomes-%23FFD700?style=for-the-badge) | `![1000 Genomes](https://img.shields.io/badge/1000_Genomes-%23FFD700?style=for-the-badge)` |
+
+---
+
+## Other Specialized Databases
+
+| **Badges** | **Description** | **Preview** | **Link** |
+|-------------------------|---------------------------------------------------------------------------|---|---|
+| miRBase | MicroRNA database | ![miRBase](https://img.shields.io/badge/miRBase-%23B22222?style=for-the-badge) | `![miRBase](https://img.shields.io/badge/miRBase-%23B22222?style=for-the-badge)` |
+| ENCODE | Encyclopedia of DNA Elements | ![ENCODE](https://img.shields.io/badge/ENCODE-%233399FF?style=for-the-badge) | `![ENCODE](https://img.shields.io/badge/ENCODE-%233399FF?style=for-the-badge)` |
+| TCGA | The Cancer Genome Atlas | ![TCGA](https://img.shields.io/badge/TCGA-%23FF6347?style=for-the-badge) | `![TCGA](https://img.shields.io/badge/TCGA-%23FF6347?style=for-the-badge)` |
+| ZFIN | Zebrafish Model Organism Database | ![ZFIN](https://img.shields.io/badge/ZFIN-%234C9A2D?style=for-the-badge) | `![ZFIN](https://img.shields.io/badge/ZFIN-%234C9A2D?style=for-the-badge)` |
+| FlyBase | Drosophila genetics and genomics | ![FlyBase](https://img.shields.io/badge/FlyBase-%23FFD700?style=for-the-badge) | `![FlyBase](https://img.shields.io/badge/FlyBase-%23FFD700?style=for-the-badge)` |
+
+---
+
 ## Sequence Alignment and Mapping
 
 | **Badges** | **Description** | **Preview** | **Link** |
@@ -36,8 +122,6 @@ This document provides a list of bioinformatics software tools categorized by th
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
 | IGV | Integrative Genomics Viewer | ![IGV](https://img.shields.io/badge/IGV-%2300BFFF?style=for-the-badge) | `![IGV](https://img.shields.io/badge/IGV-%2300BFFF?style=for-the-badge)` |
-| UCSC Genome Browser | Web-based genome browser | ![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%23FF1493?style=for-the-badge) | `![UCSC Genome Browser](https://img.shields.io/badge/UCSC_Genome_Browser-%23FF1493?style=for-the-badge)` |
-| Circos | Visualization tool for genomic data in circular layout | ![Circos](https://img.shields.io/badge/Circos-%23FFD700?style=for-the-badge) | `![Circos](https://img.shields.io/badge/Circos-%23FFD700?style=for-the-badge)` |
 | GenomeDiagram | Python package for genomic plots | ![GenomeDiagram](https://img.shields.io/badge/GenomeDiagram-%232E8B57?style=for-the-badge) | `![GenomeDiagram](https://img.shields.io/badge/GenomeDiagram-%232E8B57?style=for-the-badge)` |
 | JBrowse | Web-based genome browser | ![JBrowse](https://img.shields.io/badge/JBrowse-%23A52A2A?style=for-the-badge) | `![JBrowse](https://img.shields.io/badge/JBrowse-%23A52A2A?style=for-the-badge)` |
 | Artemis | Genome browser for sequence annotation | ![Artemis](https://img.shields.io/badge/Artemis-%23DAA520?style=for-the-badge) | `![Artemis](https://img.shields.io/badge/Artemis-%23DAA520?style=for-the-badge)` |
@@ -75,7 +159,6 @@ This document provides a list of bioinformatics software tools categorized by th
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| Ensembl | Genome browser and annotation platform | ![Ensembl](https://img.shields.io/badge/Ensembl-%233399FF?style=for-the-badge) | `![Ensembl](https://img.shields.io/badge/Ensembl-%233399FF?style=for-the-badge)` |
 | GeneMark | Gene prediction software | ![GeneMark](https://img.shields.io/badge/GeneMark-%2360B0A6?style=for-the-badge) | `![GeneMark](https://img.shields.io/badge/GeneMark-%2360B0A6?style=for-the-badge)` |
 | AUGUSTUS | Gene prediction tool for eukaryotic genomes | ![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-%23A1D6E8?style=for-the-badge) | `![AUGUSTUS](https://img.shields.io/badge/AUGUSTUS-%23A1D6E8?style=for-the-badge)` |
 | InterProScan | Protein sequence analysis tool for domain identification | ![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge) | `![InterProScan](https://img.shields.io/badge/InterProScan-%23B22222?style=for-the-badge)` |
@@ -147,14 +230,13 @@ This document provides a list of bioinformatics software tools categorized by th
 
 ---
 
+
+
 ## Data Analysis and Statistics
 
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
-| R | Comprehensive statistical analysis and visualization tool | ![R](https://img.shields.io/badge/R-%23A8B9CC?style=for-the-badge) | `![R](https://img.shields.io/badge/R-%23A8B9CC?style=for-the-badge)` |
 | Bioconductor | R-based package for bioinformatics data analysis | ![Bioconductor](https://img.shields.io/badge/Bioconductor-%234DC6FF?style=for-the-badge) | `![Bioconductor](https://img.shields.io/badge/Bioconductor-%234DC6FF?style=for-the-badge)` |
-| Python | Programming language with bioinformatics libraries like Biopython | ![Python](https://img.shields.io/badge/Python-%23FFD700?style=for-the-badge) | `![Python](https://img.shields.io/badge/Python-%23FFD700?style=for-the-badge)` |
-| MATLAB | Programming environment used for numerical analysis in bioinformatics | ![MATLAB](https://img.shields.io/badge/MATLAB-%23A52A2A?style=for-the-badge) | `![MATLAB](https://img.shields.io/badge/MATLAB-%23A52A2A?style=for-the-badge)` |
 | Galaxy | Open-source platform for data analysis, visualizations, and workflow creation | ![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge) | `![Galaxy](https://img.shields.io/badge/Galaxy-%23FF6347?style=for-the-badge)` |
 | SAS | Statistical software suite used in bioinformatics research | ![SAS](https://img.shields.io/badge/SAS-%23FF1493?style=for-the-badge) | `![SAS](https://img.shields.io/badge/SAS-%23FF1493?style=for-the-badge)` |
 | JMP | Statistical discovery tool used in genomics and bioinformatics | ![JMP](https://img.shields.io/badge/JMP-%23DC143C?style=for-the-badge) | `![JMP](https://img.shields.io/badge/JMP-%23DC143C?style=for-the-badge)` |
@@ -166,8 +248,7 @@ This document provides a list of bioinformatics software tools categorized by th
 | **Badges** | **Description** | **Preview** | **Link** |
 |-------------------------|---------------------------------------------------------------------------|---|---|
 | CloudBioLinux | Cloud-based bioinformatics software | ![CloudBioLinux](https://img.shields.io/badge/CloudBioLinux-%23A52A2A?style=for-the-badge) | `![CloudBioLinux](https://img.shields.io/badge/CloudBioLinux-%23A52A2A?style=for-the-badge)` |
-| AWS Bioinformatics | Amazon Web Services bioinformatics tools | ![AWS Bioinformatics](https://img.shields.io/badge/AWS_Bioinformatics-%23FFD700?style=for-the-badge) | `![AWS Bioinformatics](https://img.shields.io/badge/AWS_Bioinformatics-%23FFD700?style=for-the-badge)` |
-| Google Genomics | Google Cloud Platform for large-scale genomic data analysis | ![Google Genomics](https://img.shields.io/badge/Google_Genomics-%2300BFFF?style=for-the-badge) | `![Google Genomics](https://img.shields.io/badge/Google_Genomics-%2300BFFF?style=for-the-badge)` |
+| AWS | Amazon Web Services tools | ![aws](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices) | `![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices)` |
 | BaseSpace | Illumina's cloud-based platform for sequencing data analysis | ![BaseSpace](https://img.shields.io/badge/BaseSpace-%23FFD700?style=for-the-badge) | `![BaseSpace](https://img.shields.io/badge/BaseSpace-%23FFD700?style=for-the-badge)` |
 
 ---
