@@ -15,7 +15,7 @@ This document provides a list of bioinformatics software tools categorized by th
 | C            | Low-level programming for speed and efficiency      | ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)           | `![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)`           |
 | Julia        | High-performance, modern syntax for numerical computing | ![Julia](https://img.shields.io/badge/julia-%239558B2?style=for-the-badge&logo=Julia&logoColor=white)   | `![Julia](https://img.shields.io/badge/julia-%239558B2?style=for-the-badge&logo=Julia&logoColor=white)`   |
 | Ruby         | Elegant syntax, scripting-friendly                  | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby&logoColor=white)     | `![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby&logoColor=white)`     |
-| Shell Scripting (Bash) | Command-line based, essential for automation       | ![Bash](https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash)     | `https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash`     |
+| Shell Scripting (Bash) | Command-line based, essential for automation       | ![Bash](https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash)     | `![Bash]https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash`     |
 | SQL          | Structured query language for database management   | ![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)       | `![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)`       |
 
 ---
