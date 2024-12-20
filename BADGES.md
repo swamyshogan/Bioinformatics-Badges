@@ -1,4 +1,4 @@
-# Bioinformatics Software Tools
+# Bioinformatics Badges
 
 This document provides a list of bioinformatics software tools categorized by their functionality. Each tool is accompanied by a short description and a badge for easier identification. Use can also use this as a reference to explore the tools!
 
